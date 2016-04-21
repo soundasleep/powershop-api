@@ -3,7 +3,7 @@
 powershop-api
 =============
 
-See the list of supported [endpoints/](endpoints).
+See the list of supported [src/endpoints/](endpoints).
 
 # Sample Applications
 
