@@ -37,8 +37,8 @@ You will receive if successful:
 
 ```json
 {
-  success: true,
-  result: { /* object */ }
+  "success": true,
+  "result": { /* object */ }
 }
 ```
 
@@ -46,7 +46,7 @@ Or failure:
 
 ```json
 {
-  success: false,
-  message: "An error message"
+  "success": false,
+  "message": "An error message"
 }
 ```
