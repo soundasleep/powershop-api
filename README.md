@@ -3,12 +3,12 @@
 powershop-api
 =============
 
-See the list of supported [endpoints/](endpoints).
+See the list of supported [endpoints](endpoints).
 
 # Sample Applications
 
-* TODO link to powershop-ruby
-* TODO link to powershop-python
+* [Sample Rails application](https://github.com/hughdavenport/rails-hmac-api)
+* More coming soon...
 
 # Authentication with HMAC
 
