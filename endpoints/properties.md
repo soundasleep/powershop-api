@@ -23,7 +23,7 @@ Output:
           "postcode": "8025",
           "region": "Canterbury"
         },
-        "vanity" {
+        "vanity": {
           "address2": "261",
           "address3": "Test St",
           "district": "Christchurch",
