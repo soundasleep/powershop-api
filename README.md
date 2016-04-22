@@ -3,7 +3,7 @@
 powershop-api
 =============
 
-See the list of supported [src/endpoints/](endpoints).
+See the list of supported [endpoints/](endpoints).
 
 # Sample Applications
 
@@ -25,7 +25,7 @@ And also send the following POST data (`$post_data`):
 
 * `nonce=[nonce]`
 
-And POST this data to an endpoint, e.g. http://localhost:3000/customers/12345/api/v1/balance.json (`$endpoint_path` is `/customers/12345/api/v1/balance.json`)
+And POST this data to an endpoint, e.g. http://localhost:3000/customers/12345/api/v1/balance.json (`$endpoint_path` is `/customers/12345/api/v1/balance`)
 
 The signed hash can be computed with:
 
